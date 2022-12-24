@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Sat Dec 24 17:55:55 CST 2022","Sat Dec 24 17:55:58 CST 2022","2478","testcase.homepage","test_click_baidu_logo","","","","test_run",""
+"failed","Sat Dec 24 17:55:59 CST 2022","Sat Dec 24 17:56:02 CST 2022","2312","testcase.homepage","xxxxx","Test1","","","test_run1",""
+"passed","Sat Dec 24 17:56:03 CST 2022","Sat Dec 24 17:56:04 CST 2022","213","testcase.homepage","xxxxx","Test1","","","test_run2",""
